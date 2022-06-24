@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob/Page_Tm vic lm K ton trng  CareerBuilder.vn_117510/a_Finance Manager                          _2282b8",
+      "brokenLocator": "//div[@id\u003d\u0027job-item-35B9C87C\u0027]/div/div[2]/div/h2/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mức lương\u0027])[2]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob/Page_Tm vic lm K ton trng  CareerBuilder.vn_117510/a_Finance Manager                          _2282b8_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob/Page_Vic lm K Ton Trng - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn",
+      "brokenLocator": "//div[@id\u003d\u0027tab-1\u0027]/section/div[7]/div/div/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//a[contains(text(),\u0027Nộp Đơn Ứng Tuyển\u0027)])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob/Page_Vic lm K Ton Trng - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob/Page_Tm vic lm Test1  CareerBuilder.vn - Mi nht/a_Test1                                    _8a783d",
+      "brokenLocator": "//div[@id\u003d\u0027job-item-35B9C1B1\u0027]/div/div[2]/div/h2/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mức lương\u0027])[2]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob/Page_Tm vic lm Test1  CareerBuilder.vn - Mi nht/a_Test1                                    _8a783d_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob/Page_Vic lm Test1 - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn",
+      "brokenLocator": "//div[@id\u003d\u0027tab-1\u0027]/section/div[7]/div/div/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//a[contains(text(),\u0027Nộp Đơn Ứng Tuyển\u0027)])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob/Page_Vic lm Test1 - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob_Firefox/Page_Tm vic lm Test1  CareerBuilder.vn/a_Test1                                    _8a783d",
+      "brokenLocator": "//div[@id\u003d\u0027job-item-35B9C9BD\u0027]/div/div[2]/div/h2/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mức lương\u0027])[2]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob_Firefox/Page_Tm vic lm Test1  CareerBuilder.vn/a_Test1                                    _8a783d_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob_Firefox/Page_Vic lm Test1 - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn",
+      "brokenLocator": "//div[@id\u003d\u0027tab-1\u0027]/section/div[7]/div/div/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//a[contains(text(),\u0027Nộp Đơn Ứng Tuyển\u0027)])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob_Firefox/Page_Vic lm Test1 - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn_link.png"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng bo</name>
+   <tag></tag>
+   <elementGuidId>f7f2d6fb-6718-43c7-85c2-1d0f0d91d10d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fancybox-container-1']/div[2]/div[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7681bedc-cbdc-4a98-a131-776f0221a83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>30b12533-27f0-4376-ac95-438d6468d829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông báo</value>
+      <webElementGuid>b4b606f0-56db-4eba-a1c4-b63835641bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fancybox-container-1&quot;)/div[@class=&quot;fancybox-inner&quot;]/div[@class=&quot;fancybox-stage&quot;]/div[@class=&quot;fancybox-slide fancybox-slide--html fancybox-slide--current fancybox-slide--complete&quot;]/div[@class=&quot;remove-modal fancybox-content&quot;]/div[@class=&quot;modal-title&quot;]</value>
+      <webElementGuid>8e06950a-7c17-4056-b341-9fcf8417560e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fancybox-container-1']/div[2]/div[4]/div/div/div</value>
+      <webElementGuid>50b6f81b-05e2-471f-8544-49767fc89a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback'])[1]/following::div[12]</value>
+      <webElementGuid>4f9ed730-8978-4d33-b0e7-215619063ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/preceding::div[2]</value>
+      <webElementGuid>185709be-ae1e-4263-894c-9221cecffee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>390595db-0823-4bee-b39d-33aa49c2f713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thông báo' or . = 'Thông báo')]</value>
+      <webElementGuid>2fc8ce22-b6c4-469e-867c-efa91ff5cb75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

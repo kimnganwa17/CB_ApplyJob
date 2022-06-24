@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Np n ng Tuyn</name>
+   <tag></tag>
+   <elementGuidId>0f49c7e3-c09d-4b5c-81ca-7bed3219fd87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/section[2]/div/div/div[2]/div/div[1]/section/div[7]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1e78970e-6998-4960-8216-e79abbfbaf74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>ce057b22-3e24-43b3-bf25-dfb13066b326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-gradient btnApplyClick</value>
+      <webElementGuid>3ccfd146-cc69-4ecb-adbb-92c8bc40506b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nộp Đơn Ứng Tuyển </value>
+      <webElementGuid>48196999-2ae5-4d90-8a1b-26537e0418f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-1&quot;)/section[@class=&quot;job-detail-content&quot;]/div[@class=&quot;job-detail-bottom&quot;]/div[@class=&quot;job-detail-bottom-wrapper&quot;]/div[@class=&quot;apply-now-content&quot;]/div[@class=&quot;apply-now-right&quot;]/div[@class=&quot;apply-now-btn&quot;]/a[@class=&quot;btn-gradient btnApplyClick&quot;]</value>
+      <webElementGuid>17490a1d-268b-4073-a0a7-57efeed18446</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-1']/section/div[7]/div/div/div[2]/div/a</value>
+      <webElementGuid>80525ffa-97cd-4d87-b712-aa27fdd667c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Nộp Đơn Ứng Tuyển')])[2]</value>
+      <webElementGuid>f8a57872-b8ea-4bc3-ac13-9fd7196e9d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo xấu'])[4]/following::a[1]</value>
+      <webElementGuid>075907c6-ef95-4295-a0e2-4155d9258462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thử mã mới'])[1]/following::a[1]</value>
+      <webElementGuid>eda43460-6502-4ff9-bf1a-8f7d15d814c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dành Cho Ứng Viên'])[1]/preceding::a[3]</value>
+      <webElementGuid>20790eb6-8c5b-45b0-b746-e2cc639eece8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Việc làm mới nhất'])[2]/preceding::a[3]</value>
+      <webElementGuid>0b875300-0c64-4d07-b852-ef9427bdc722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[9]</value>
+      <webElementGuid>eed5727e-3cb9-44ac-9752-13670ca5d3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/a</value>
+      <webElementGuid>415a6997-9bf3-4df1-bbec-2073306c1eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = ' Nộp Đơn Ứng Tuyển ' or . = ' Nộp Đơn Ứng Tuyển ')]</value>
+      <webElementGuid>d302fcfb-f913-4d44-add5-286defb9a906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

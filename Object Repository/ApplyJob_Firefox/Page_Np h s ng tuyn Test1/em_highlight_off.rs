@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_highlight_off</name>
+   <tag></tag>
+   <elementGuidId>27360c24-7109-42d8-9d36-fb87c92f1db2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/a/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.passChk > em.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>0b6833ed-8676-43d7-b87a-d5bae4183aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>70b28f4f-71f4-4747-b877-22786344a33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>highlight_off</value>
+      <webElementGuid>cecbff39-470d-43d0-971f-2c81aba033ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmApplyjob&quot;)/div[@class=&quot;upload-resume&quot;]/div[@class=&quot;form-group form-radio&quot;]/div[@class=&quot;list-radio&quot;]/div[@class=&quot;list-choose&quot;]/div[@class=&quot;form-show-file active&quot;]/a[@class=&quot;passChk&quot;]/em[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>08324576-cbd5-43a6-9d57-97c430acfccc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/a/em</value>
+      <webElementGuid>b97b9d78-da68-469e-9946-913562b990b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='picture_as_pdf'])[1]/following::em[1]</value>
+      <webElementGuid>55d64cf8-bdcc-466e-a3a7-e98ea35d269a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVHay.vn'])[1]/preceding::em[1]</value>
+      <webElementGuid>e2c69019-5171-4307-8cd0-064acc0bced5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu ý:'])[1]/preceding::em[1]</value>
+      <webElementGuid>4655c836-14c1-4420-8982-d3409f65ca67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='highlight_off']/parent::*</value>
+      <webElementGuid>3d6593a4-98da-4148-b229-4e5559052c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/em</value>
+      <webElementGuid>de5694eb-930d-4084-92ce-b97bd7302aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'highlight_off' or . = 'highlight_off')]</value>
+      <webElementGuid>e428a08b-77b5-44e3-8923-4d4ae378d74c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

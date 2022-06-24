@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a1ed9af9-a141-4bdf-8fc4-3d58150ea80c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fancybox-container-1']/div[2]/div[4]/div/div/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0c51f4ba-1907-43da-8b46-33c76bca17f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./img/icon-error.png</value>
+      <webElementGuid>0649fcc5-b390-4a7d-965a-bca0722736fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fancybox-container-1&quot;)/div[@class=&quot;fancybox-inner&quot;]/div[@class=&quot;fancybox-stage&quot;]/div[@class=&quot;fancybox-slide fancybox-slide--html fancybox-slide--current fancybox-slide--complete&quot;]/div[@class=&quot;remove-modal fancybox-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;icon&quot;]/img[1]</value>
+      <webElementGuid>2800cc0a-39d5-40eb-8905-fc40276da8fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fancybox-container-1']/div[2]/div[4]/div/div/div[2]/div/img</value>
+      <webElementGuid>038fed9a-f204-42dd-800d-73613d653c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>b5665a28-4626-455a-8da1-a843c423c01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './img/icon-error.png']</value>
+      <webElementGuid>0635a956-a7b2-4906-89fc-6eba76a34213</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
