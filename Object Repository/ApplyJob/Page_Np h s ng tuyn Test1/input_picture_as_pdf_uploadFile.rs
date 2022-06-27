@@ -3,7 +3,7 @@
    <description></description>
    <name>input_picture_as_pdf_uploadFile</name>
    <tag></tag>
-   <elementGuidId>60a19e55-ea5f-4d61-87f7-2f86d7117c99</elementGuidId>
+   <elementGuidId>a22f9e76-cffa-4235-a340-5ec4ba407d46</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='uploadFile']</value>
+         <value>//*[@id=&quot;attach_file&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>379e629e-3bd3-4c8e-b21d-ae79498842a9</webElementGuid>
+      <webElementGuid>992df39d-c0f2-407a-8745-565c1fd2753a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7f8e15df-a7c6-41eb-a231-111fc65789a7</webElementGuid>
+      <webElementGuid>3e79984b-48fe-45e1-bb9c-1d264cc230c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>uploadFile</value>
-      <webElementGuid>cc6f5696-4d6e-4e6f-92b1-7a0c64eae12e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>valid</value>
-      <webElementGuid>c9c4043d-2b18-4e01-8961-81f1ff7d516e</webElementGuid>
+      <webElementGuid>ac41370a-cf54-417e-8cd5-3a56dd4b60ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;uploadFile&quot;)</value>
-      <webElementGuid>ed3e7970-f3ad-4b76-a025-50a95bbd6316</webElementGuid>
+      <webElementGuid>9e2bfab2-31d1-4f46-9fde-891bde3b9ec8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='uploadFile']</value>
-      <webElementGuid>88de6a44-f528-4b99-91aa-554921f7e783</webElementGuid>
+      <webElementGuid>059fa909-61e3-4f28-a02e-b66cf216f3f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +62,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/input</value>
-      <webElementGuid>c72fa413-487a-4848-bd76-6f02493dd4fa</webElementGuid>
+      <webElementGuid>65aeb778-6485-4f0c-9592-f0c8e7885131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/input</value>
-      <webElementGuid>0500c69c-e911-46eb-af20-2cdc04b8cd6a</webElementGuid>
+      <value>//div[2]/div/div/div[2]/input</value>
+      <webElementGuid>946575e9-285e-40c7-975f-f1d41d742905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'uploadFile']</value>
-      <webElementGuid>f9966274-1f5c-4f8a-8948-8980234bea40</webElementGuid>
+      <webElementGuid>7df9e638-6375-4c13-8015-ea36856b7723</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

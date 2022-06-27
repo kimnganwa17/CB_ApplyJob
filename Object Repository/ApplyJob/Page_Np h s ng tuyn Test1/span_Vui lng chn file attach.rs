@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>em_highlight_off</name>
+   <name>span_Vui lng chn file attach</name>
    <tag></tag>
-   <elementGuidId>27360c24-7109-42d8-9d36-fb87c92f1db2</elementGuidId>
+   <elementGuidId>831bf1dd-c9eb-4361-98c7-60595b227069</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/a/em</value>
+         <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/p/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.passChk > em.material-icons</value>
+         <value>span.err_attach_file.err_attach</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>em</value>
-      <webElementGuid>0b6833ed-8676-43d7-b87a-d5bae4183aee</webElementGuid>
+      <value>span</value>
+      <webElementGuid>5dd2452c-8558-490d-848a-befe3b819902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>material-icons</value>
-      <webElementGuid>70b28f4f-71f4-4747-b877-22786344a33e</webElementGuid>
+      <value>err_attach_file err_attach</value>
+      <webElementGuid>71439ef6-495f-4f1e-9473-be5d872d002c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>highlight_off</value>
-      <webElementGuid>cecbff39-470d-43d0-971f-2c81aba033ba</webElementGuid>
+      <value>Vui lòng chọn file attach</value>
+      <webElementGuid>2707a311-89b7-4f2a-af31-1dd3dedd6482</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmApplyjob&quot;)/div[@class=&quot;upload-resume&quot;]/div[@class=&quot;form-group form-radio&quot;]/div[@class=&quot;list-radio&quot;]/div[@class=&quot;list-choose&quot;]/div[@class=&quot;form-show-file active&quot;]/a[@class=&quot;passChk&quot;]/em[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>08324576-cbd5-43a6-9d57-97c430acfccc</webElementGuid>
+      <value>id(&quot;frmApplyjob&quot;)/div[@class=&quot;upload-resume&quot;]/div[@class=&quot;form-group form-radio&quot;]/div[@class=&quot;list-radio&quot;]/div[@class=&quot;list-choose&quot;]/p[1]/span[@class=&quot;err_attach_file err_attach&quot;]</value>
+      <webElementGuid>90d58930-6fab-4a67-93fa-54d53198786c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/a/em</value>
-      <webElementGuid>b97b9d78-da68-469e-9946-913562b990b6</webElementGuid>
+      <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/p/span[2]</value>
+      <webElementGuid>cf75192b-4389-4593-af79-7226c3c03cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='picture_as_pdf'])[1]/following::em[1]</value>
-      <webElementGuid>55d64cf8-bdcc-466e-a3a7-e98ea35d269a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn file từ Dropbox'])[1]/following::span[2]</value>
+      <webElementGuid>f19e7cf0-51f6-401d-be47-2cab0ecc7075</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVHay.vn'])[1]/preceding::em[1]</value>
-      <webElementGuid>e2c69019-5171-4307-8cd0-064acc0bced5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn từ máy tính'])[1]/following::span[2]</value>
+      <webElementGuid>d1f60faf-6de0-4012-aac4-a64a1eb7b979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu ý:'])[1]/preceding::em[1]</value>
-      <webElementGuid>4655c836-14c1-4420-8982-d3409f65ca67</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='picture_as_pdf'])[1]/preceding::span[3]</value>
+      <webElementGuid>ba8ab83a-899b-45f9-9bc7-5a47d02acd18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='highlight_off']/parent::*</value>
-      <webElementGuid>3d6593a4-98da-4148-b229-4e5559052c94</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Vui lòng chọn file attach']/parent::*</value>
+      <webElementGuid>46cc6034-2cf3-46be-92c0-50ae555f32e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/em</value>
-      <webElementGuid>de5694eb-930d-4084-92ce-b97bd7302aa6</webElementGuid>
+      <value>//p/span[2]</value>
+      <webElementGuid>2860d254-c498-40c8-aa89-9c4b268f56f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//em[(text() = 'highlight_off' or . = 'highlight_off')]</value>
-      <webElementGuid>e428a08b-77b5-44e3-8923-4d4ae378d74c</webElementGuid>
+      <value>//span[(text() = 'Vui lòng chọn file attach' or . = 'Vui lòng chọn file attach')]</value>
+      <webElementGuid>310ec9bc-1df3-440f-bea6-15ee6a2489e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

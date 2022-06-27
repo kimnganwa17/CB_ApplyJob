@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Np n ng Tuyn</name>
    <tag></tag>
-   <elementGuidId>0f49c7e3-c09d-4b5c-81ca-7bed3219fd87</elementGuidId>
+   <elementGuidId>04f62c74-54c3-4bf3-a250-cae5c0954f57</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-1']/section/div[7]/div/div/div[2]/div/a</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/main/section[2]/div/div/div[2]/div/div[1]/section/div[7]/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1e78970e-6998-4960-8216-e79abbfbaf74</webElementGuid>
+      <webElementGuid>b7ecabf4-83a5-41c0-acca-a684f8b75a8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>ce057b22-3e24-43b3-bf25-dfb13066b326</webElementGuid>
+      <webElementGuid>ae9abec2-a367-46ae-b7f7-313771d4c887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-gradient btnApplyClick</value>
-      <webElementGuid>3ccfd146-cc69-4ecb-adbb-92c8bc40506b</webElementGuid>
+      <webElementGuid>8ca4ecb2-56b2-42b3-991e-7c039771cc59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Nộp Đơn Ứng Tuyển </value>
-      <webElementGuid>48196999-2ae5-4d90-8a1b-26537e0418f3</webElementGuid>
+      <webElementGuid>5e157aec-7b77-4067-b835-9b2df3d31d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tab-1&quot;)/section[@class=&quot;job-detail-content&quot;]/div[@class=&quot;job-detail-bottom&quot;]/div[@class=&quot;job-detail-bottom-wrapper&quot;]/div[@class=&quot;apply-now-content&quot;]/div[@class=&quot;apply-now-right&quot;]/div[@class=&quot;apply-now-btn&quot;]/a[@class=&quot;btn-gradient btnApplyClick&quot;]</value>
-      <webElementGuid>17490a1d-268b-4073-a0a7-57efeed18446</webElementGuid>
+      <value>id(&quot;tab-1&quot;)/section[@class=&quot;job-detail-content&quot;]/div[@class=&quot;job-detail-bottom sticky&quot;]/div[@class=&quot;job-detail-bottom-wrapper&quot;]/div[@class=&quot;apply-now-content&quot;]/div[@class=&quot;apply-now-right&quot;]/div[@class=&quot;apply-now-btn&quot;]/a[@class=&quot;btn-gradient btnApplyClick&quot;]</value>
+      <webElementGuid>d3a7d976-5d04-4389-94b7-b4291feb17eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tab-1']/section/div[7]/div/div/div[2]/div/a</value>
-      <webElementGuid>80525ffa-97cd-4d87-b712-aa27fdd667c0</webElementGuid>
+      <webElementGuid>34d9b8c4-5b7b-4c5a-9ac3-64420635591d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Nộp Đơn Ứng Tuyển')])[2]</value>
-      <webElementGuid>f8a57872-b8ea-4bc3-ac13-9fd7196e9d92</webElementGuid>
+      <webElementGuid>b2e9fc6e-6450-4efd-9104-16ff94f7bfba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo xấu'])[4]/following::a[1]</value>
-      <webElementGuid>075907c6-ef95-4295-a0e2-4155d9258462</webElementGuid>
+      <webElementGuid>3b193914-9ab6-42cb-9c66-d57787f2cb59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thử mã mới'])[1]/following::a[1]</value>
-      <webElementGuid>eda43460-6502-4ff9-bf1a-8f7d15d814c0</webElementGuid>
+      <webElementGuid>f505a62a-be0d-427f-859b-000d8fb3e771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dành Cho Ứng Viên'])[1]/preceding::a[3]</value>
-      <webElementGuid>20790eb6-8c5b-45b0-b746-e2cc639eece8</webElementGuid>
+      <webElementGuid>63e5553b-0d66-421f-87ee-32c3be84b18b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Việc làm mới nhất'])[2]/preceding::a[3]</value>
-      <webElementGuid>0b875300-0c64-4d07-b852-ef9427bdc722</webElementGuid>
+      <webElementGuid>04fd2379-fa1c-4602-abe4-c089388be08b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[9]</value>
-      <webElementGuid>eed5727e-3cb9-44ac-9752-13670ca5d3b4</webElementGuid>
+      <webElementGuid>34fc917c-2910-44d7-b5c7-0e22630d04da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div[2]/div/a</value>
-      <webElementGuid>415a6997-9bf3-4df1-bbec-2073306c1eaf</webElementGuid>
+      <webElementGuid>d8336795-6c11-4d68-b108-a9516ec6d66c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = ' Nộp Đơn Ứng Tuyển ' or . = ' Nộp Đơn Ứng Tuyển ')]</value>
-      <webElementGuid>d302fcfb-f913-4d44-add5-286defb9a906</webElementGuid>
+      <webElementGuid>6fac4cb2-2888-40f4-9262-0472cde2e729</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

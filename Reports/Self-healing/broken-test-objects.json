@@ -59,6 +59,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob_Firefox/Page_Vic lm Test1 - Cng Ty C Phn ITFirst Pro/a_Np n ng Tuyn_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob_Firefox/Page_Tuyn dng  Tm kim vic lm nhanh  CareerB_c7310c/input_n ly thnh cng vi_keyword",
+      "brokenLocator": "//input[@id\u003d\u0027keyword\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApplyJob_R2/Page_Tm vic lm Test1  CareerBuilder.vn - Mi nht/a_Test1                                    _8a783d",
+      "brokenLocator": "//div[@id\u003d\u0027job-item-35B9CDA9\u0027]/div/div[2]/div/h2/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mức lương\u0027])[2]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApplyJob_R2/Page_Tm vic lm Test1  CareerBuilder.vn - Mi nht/a_Test1                                    _8a783d_neighbor.png"
     }
   ]
 }

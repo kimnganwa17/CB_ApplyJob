@@ -3,15 +3,15 @@
    <description></description>
    <name>input_n ly thnh cng vi_keyword</name>
    <tag></tag>
-   <elementGuidId>3e1c34f2-fa18-4bad-ab98-ce5c1c32ae48</elementGuidId>
+   <elementGuidId>83589943-797d-41f9-a0b8-f2c46fa3acfb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#keyword</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='keyword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#keyword</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4df000a8-4cba-4136-b746-b0960293a82d</webElementGuid>
+      <webElementGuid>29f36c60-56eb-43d7-bcd8-8ee0d77521bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>cbdf4abe-c83c-45bc-9721-8f41d24a96da</webElementGuid>
+      <webElementGuid>29699dcc-2ca2-475d-943c-9924aa0ee8b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>prompt keyword</value>
-      <webElementGuid>5f7438b5-6474-4cdb-b0cc-a11881df9e03</webElementGuid>
+      <webElementGuid>a42baf4a-cbd4-4cd9-bf1b-5f9f8d11e3c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>keyword</value>
-      <webElementGuid>e8f4df1f-17f5-44be-a9a0-0ae84bd565da</webElementGuid>
+      <webElementGuid>efe4474e-eda7-41fe-bbce-dbb5547415ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>keyword</value>
-      <webElementGuid>1bed4999-67b0-4332-b099-b09eaa5b3bfe</webElementGuid>
+      <webElementGuid>b4bc426f-2a9a-4c05-9d6c-b5f0ed241b9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Chức danh, Kỹ năng, Tên công ty</value>
-      <webElementGuid>09447496-020f-4d18-867f-875c8e2175fe</webElementGuid>
+      <webElementGuid>570ebc4b-672e-472f-9b57-989cd13c703e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ce164493-099b-4808-8c39-aa6eebfb4792</webElementGuid>
+      <webElementGuid>68f366a4-83e3-4cbe-8abc-8b3abc53e38f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;keyword&quot;)</value>
-      <webElementGuid>1fde4d9b-3439-4936-83a0-82dde9cf3959</webElementGuid>
+      <webElementGuid>1a078914-1df5-40a8-9b6e-821e19d163ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='keyword']</value>
-      <webElementGuid>b627aa76-48c9-4c13-9604-bf2699460ed1</webElementGuid>
+      <webElementGuid>9e83c2da-e5d8-479d-afb9-f1eeb7889c4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>9693743d-94fe-48d6-98b8-03bc998faec1</webElementGuid>
+      <webElementGuid>b55f08ab-22bd-4341-b807-c524d259b913</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @name = 'keyword' and @id = 'keyword' and @placeholder = 'Chức danh, Kỹ năng, Tên công ty']</value>
-      <webElementGuid>d5d90e14-d45a-4ed6-ae86-6677c4c3bf1d</webElementGuid>
+      <webElementGuid>466f457a-698a-4fd9-a9b5-7eff48a23fda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

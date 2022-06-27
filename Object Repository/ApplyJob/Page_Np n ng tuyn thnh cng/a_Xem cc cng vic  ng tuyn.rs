@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Xem cc cng vic  ng tuyn</name>
    <tag></tag>
-   <elementGuidId>a4b46efb-c5e6-4776-9e56-5c0ca2e006fc</elementGuidId>
+   <elementGuidId>d10113e8-25e0-4fcc-b3bb-2125c43e37b6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a.btn-apply-now.btn-gradient</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Xem các công việc đã ứng tuyển')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-apply-now.btn-gradient</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b4e38fa8-c119-4e11-9d8b-8804dd158444</webElementGuid>
+      <webElementGuid>d8ef931d-5cb4-45a0-b594-93788f6f94b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>ec3d9b96-d5bf-4d25-a2a8-63e676be4f6f</webElementGuid>
+      <webElementGuid>ba439fa5-5541-4e5b-8366-880b43c568d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-apply-now btn-gradient</value>
-      <webElementGuid>0fc0829f-362d-46f1-aae6-d2a467c83b93</webElementGuid>
+      <webElementGuid>f832e5e6-902b-40e9-b52a-8c9a09e4decb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
               Xem các công việc đã ứng tuyển
             </value>
-      <webElementGuid>4e55a0b5-8c16-4de3-9eb1-91308287778f</webElementGuid>
+      <webElementGuid>68fe7269-5c61-4e44-aaf7-be2afdd13b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;apply-form-success-page&quot;]/main[1]/section[@class=&quot;cb-job-hunt cb-section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;job-hunt-wrapper&quot;]/div[@class=&quot;btn-applied&quot;]/a[@class=&quot;btn-apply-now btn-gradient&quot;]</value>
-      <webElementGuid>679078e1-e125-4ffe-bd50-340effc0e293</webElementGuid>
+      <webElementGuid>50173025-992f-4877-8583-0e2fae9f7a01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Xem các công việc đã ứng tuyển')]</value>
-      <webElementGuid>af8cf4a6-2e5a-428f-94c1-7aac62eb72f1</webElementGuid>
+      <webElementGuid>08057528-a842-425f-8c68-b3777bd5e908</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ Chí Minh'])[1]/following::a[2]</value>
-      <webElementGuid>d854afae-aadb-4a22-a931-051b831e0908</webElementGuid>
+      <webElementGuid>5f5abdb2-8cb3-4bb9-9a4a-a50dcda9d7fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test1'])[1]/following::a[2]</value>
-      <webElementGuid>7e80f4ef-08d4-4e7d-a9f1-cb5d56ac431d</webElementGuid>
+      <webElementGuid>baee1ffd-16ff-4d36-8b49-fb15a7276950</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VietnamSalary'])[2]/preceding::a[2]</value>
-      <webElementGuid>668a9e92-71a0-4afb-a878-7528811ccca1</webElementGuid>
+      <webElementGuid>2a1d0f96-42f2-4e5f-9c85-5ddb28edd69c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mở ra cả thế giới nghề nghiệp'])[1]/preceding::a[3]</value>
-      <webElementGuid>22fdd923-4898-43fb-a8f7-1a2a5e5fee2f</webElementGuid>
+      <webElementGuid>cbd9eb01-9ca5-41a4-9ee3-29b8b41ba842</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Xem các công việc đã ứng tuyển']/parent::*</value>
-      <webElementGuid>e3930f35-26c3-4586-baa8-437f9e382b9a</webElementGuid>
+      <webElementGuid>24665606-f8a9-4e23-8ca9-eef4b63ca0fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[5]</value>
-      <webElementGuid>3d4c339d-6d1a-4a14-9876-a821944f25a5</webElementGuid>
+      <webElementGuid>4bd49b1a-978b-40c9-ba28-a138c9423df6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>3f2156c9-feff-4908-9067-e59ea5c1f421</webElementGuid>
+      <webElementGuid>496fbf56-766b-4ebb-827b-6fdf8682887d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,6 +132,6 @@
             ' or . = '
               Xem các công việc đã ứng tuyển
             ')]</value>
-      <webElementGuid>39371866-eb78-4964-ac13-2da6b9c91efd</webElementGuid>
+      <webElementGuid>0b675995-e923-4ad5-ade0-97f4e1eb42c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Np n ng Tuyn</name>
+   <name>a_highlight_offXa</name>
    <tag></tag>
-   <elementGuidId>0598400f-3af2-4408-8735-6d91bcf5eb7d</elementGuidId>
+   <elementGuidId>163aa4a3-c614-4c73-95b0-747b665c4d1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='tab-1']/section/div[7]/div/div/div[2]/div/a</value>
+         <value>//a[@onclick='removeFile()']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.form-show-file.active > a.passChk</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c0154429-988d-4db0-9678-86b0655f164e</webElementGuid>
+      <webElementGuid>09c968a1-60aa-4a51-90ec-d1551500f5da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,102 +30,110 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>c3cd3e93-759d-4d1b-951e-6ac7ef595d67</webElementGuid>
+      <webElementGuid>2546aa71-d757-4763-9f26-a972d025eb0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>removeFile()</value>
+      <webElementGuid>b2d912f1-1af9-4d8e-8b70-c40c8ecb0962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-gradient btnApplyClick</value>
-      <webElementGuid>14e1f278-94f3-40c4-bc3d-a78490c2ce16</webElementGuid>
+      <value>passChk</value>
+      <webElementGuid>61d80533-78d6-4717-8456-57eabba200a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Nộp Đơn Ứng Tuyển </value>
-      <webElementGuid>87132f8f-911e-40a0-abff-f60c7517ebb2</webElementGuid>
+      <value> highlight_offXóa</value>
+      <webElementGuid>e3af1d8e-3e6d-4b49-8a68-d5c8cd6ba696</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tab-1&quot;)/section[@class=&quot;job-detail-content&quot;]/div[@class=&quot;job-detail-bottom sticky&quot;]/div[@class=&quot;job-detail-bottom-wrapper&quot;]/div[@class=&quot;apply-now-content&quot;]/div[@class=&quot;apply-now-right&quot;]/div[@class=&quot;apply-now-btn&quot;]/a[@class=&quot;btn-gradient btnApplyClick&quot;]</value>
-      <webElementGuid>3a932f8e-894c-4c65-b375-4f1d2dab7ca2</webElementGuid>
+      <value>id(&quot;frmApplyjob&quot;)/div[@class=&quot;upload-resume&quot;]/div[@class=&quot;form-group form-radio&quot;]/div[@class=&quot;list-radio&quot;]/div[@class=&quot;list-choose&quot;]/div[@class=&quot;form-show-file active&quot;]/a[@class=&quot;passChk&quot;]</value>
+      <webElementGuid>2f0038cd-830c-4b9a-b3eb-72abdfd92b85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='removeFile()']</value>
+      <webElementGuid>72448353-9f96-4fc4-8a85-b089e1f21aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='tab-1']/section/div[7]/div/div/div[2]/div/a</value>
-      <webElementGuid>2e1108e6-3774-494c-8502-632a71c5626f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Nộp Đơn Ứng Tuyển')])[2]</value>
-      <webElementGuid>bdecd2e6-1555-4a0c-a3dd-543e44506c54</webElementGuid>
+      <value>//form[@id='frmApplyjob']/div[4]/div[2]/div/div/div[2]/a</value>
+      <webElementGuid>cadfa418-ea6e-4d7e-bed8-091493de90b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo xấu'])[4]/following::a[1]</value>
-      <webElementGuid>01670f5c-c53f-4a10-8f22-03040c53632b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='picture_as_pdf'])[1]/following::a[1]</value>
+      <webElementGuid>8da109bf-c864-4c5b-99ca-81e718b531ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thử mã mới'])[1]/following::a[1]</value>
-      <webElementGuid>50f8fd1d-3d65-45ec-8de2-091a9620d4d3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn file từ Dropbox'])[1]/following::a[1]</value>
+      <webElementGuid>408d9703-8a23-4e13-8981-feda6f712c5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test1'])[4]/preceding::a[4]</value>
-      <webElementGuid>59a983d5-a9da-42d5-a5c8-1a28f7f1523f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVHay.vn'])[1]/preceding::a[1]</value>
+      <webElementGuid>abb1e2a0-b622-4afe-8690-b9c6f9f6b0f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công Ty Cổ Phần ITFirst Pro'])[2]/preceding::a[5]</value>
-      <webElementGuid>ae5e6298-1c1f-48ca-a79b-41bd58e91148</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Xóa']/parent::*</value>
+      <webElementGuid>207056d0-8144-4e4c-8400-f1803d9bbc8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0);')])[9]</value>
-      <webElementGuid>71ac081a-164c-4fd7-83ad-02bf21182b50</webElementGuid>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>75f2afb3-bde5-4231-bb23-f2ee316a4281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/div/div/div[2]/div/a</value>
-      <webElementGuid>ab712fd4-d110-44b2-a32b-06463fc112be</webElementGuid>
+      <value>//div[4]/div[2]/div/div/div[2]/a</value>
+      <webElementGuid>15592acb-823a-4e6f-aa2d-455d1d8cb517</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and (text() = ' Nộp Đơn Ứng Tuyển ' or . = ' Nộp Đơn Ứng Tuyển ')]</value>
-      <webElementGuid>04c55756-d4a4-45f7-a0b8-121cc34d172b</webElementGuid>
+      <value>//a[@href = 'javascript:void(0);' and (text() = ' highlight_offXóa' or . = ' highlight_offXóa')]</value>
+      <webElementGuid>d4e5d353-7609-41f6-864f-eaecf5cddbd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

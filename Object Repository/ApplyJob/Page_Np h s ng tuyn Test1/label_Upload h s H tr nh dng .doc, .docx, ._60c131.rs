@@ -3,15 +3,15 @@
    <description></description>
    <name>label_Upload h s H tr nh dng .doc, .docx, ._60c131</name>
    <tag></tag>
-   <elementGuidId>f52a8bdd-f2e0-4b93-87b2-2ffde41bde50</elementGuidId>
+   <elementGuidId>d97c24aa-b832-413b-af4c-d7bee18b47e8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//form[@id='frmApplyjob']/div[4]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>3be73b27-a638-4e3c-94ce-12a0bfaa952e</webElementGuid>
+      <webElementGuid>46eca7b6-9133-4e61-b404-e90b40475224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>upload-resume</value>
-      <webElementGuid>cec91883-522f-4a80-bd49-56e2924527a8</webElementGuid>
+      <webElementGuid>a6baf114-27bd-44a9-939d-4444a66058fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Upload hồ sơ: Hỗ trợ định dạng *.doc, *.docx, *.pdf và không quá 3MB</value>
-      <webElementGuid>288507eb-95be-4653-8015-1aaaa427e281</webElementGuid>
+      <webElementGuid>538aa056-ad8e-4676-af60-416588d5cf92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmApplyjob&quot;)/div[@class=&quot;upload-resume&quot;]/div[@class=&quot;form-group form-radio&quot;]/label[1]</value>
-      <webElementGuid>43bd5058-2cca-450c-a953-d5088075e4d5</webElementGuid>
+      <webElementGuid>4a8fb908-6ffc-4301-ba8c-7b9fec276c7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmApplyjob']/div[4]/div[2]/label</value>
-      <webElementGuid>901bd2c7-a7c9-4cf1-b530-2629606af363</webElementGuid>
+      <webElementGuid>9bc4e0ae-1bc7-4c1c-a60d-726156171466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạo hồ sơ mới!'])[1]/following::label[1]</value>
-      <webElementGuid>94372a86-05b1-4c0d-b05d-996be72f1f84</webElementGuid>
+      <webElementGuid>7f9c194b-83cd-48d8-b020-ec78cd58fe12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn từ hồ sơ của bạn'])[1]/following::label[1]</value>
-      <webElementGuid>a7851e1d-aaa5-4e6a-bac8-2db732bab99c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Xem]'])[2]/following::label[1]</value>
+      <webElementGuid>e0b6ddc9-8468-46ed-8de7-4412e5b97f03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn từ máy tính'])[1]/preceding::label[1]</value>
-      <webElementGuid>1ab063ad-e833-408b-81ee-e089150670e7</webElementGuid>
+      <webElementGuid>98361d1a-b7d4-4900-b74f-d478f9a5a8df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn file từ Dropbox'])[1]/preceding::label[2]</value>
-      <webElementGuid>a2251d4b-703a-4419-baff-9af09e6ee2bc</webElementGuid>
+      <webElementGuid>63e4e1a9-aec8-41b8-9488-016e2d9b6fe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Upload hồ sơ: Hỗ trợ định dạng *.doc, *.docx, *.pdf và không quá 3MB']/parent::*</value>
-      <webElementGuid>fed00c78-66e5-46b3-97da-16e044bc2185</webElementGuid>
+      <webElementGuid>0aa0e95d-ad24-467c-999c-cba4521fb696</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/label</value>
-      <webElementGuid>ae54443e-a161-47bc-866a-a802f60b3624</webElementGuid>
+      <webElementGuid>947c4781-03fd-4d66-9aa2-2e34159143c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Upload hồ sơ: Hỗ trợ định dạng *.doc, *.docx, *.pdf và không quá 3MB' or . = 'Upload hồ sơ: Hỗ trợ định dạng *.doc, *.docx, *.pdf và không quá 3MB')]</value>
-      <webElementGuid>6c63cf40-1da8-46cf-b115-def94eb6aa3c</webElementGuid>
+      <webElementGuid>0c222e12-141f-4b5d-b823-42b41459f6d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

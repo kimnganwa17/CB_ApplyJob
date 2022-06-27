@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Vui lng nhp email_password</name>
    <tag></tag>
-   <elementGuidId>b7d9692c-e06b-42f4-a86d-7c1313a6047a</elementGuidId>
+   <elementGuidId>fe4aae91-ef22-43ec-be75-82571324c780</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#password</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>31316e94-9ddf-413e-83ad-d772b18081f9</webElementGuid>
+      <webElementGuid>4a8385d2-fce9-4e99-81cd-b2651c971eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>aed90e63-e884-4fec-888b-50b4d9ef8e3a</webElementGuid>
+      <webElementGuid>c023ade8-b28b-4856-92dd-715db29300ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>d1debe6a-62d8-4b97-800a-1e9b05cf93dd</webElementGuid>
+      <webElementGuid>331cec63-bfb1-4ad5-8a7a-86203273b4bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>0712841e-259a-4c2d-96de-96725a4c9e43</webElementGuid>
+      <webElementGuid>21622b00-2f84-4b67-b5e4-c1dbc944c957</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>this.setAttribute('value', this.value);</value>
-      <webElementGuid>6cc1dcb4-f7ce-44cc-87fd-7679574cf39c</webElementGuid>
+      <webElementGuid>101f6ae9-8834-4374-9421-fc9487f5c653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0178b834-c508-4214-9dcb-dd8294f45edc</webElementGuid>
+      <webElementGuid>5956be86-1871-4b30-8081-8bd6fd5e0adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>cd16b1f6-9d80-477c-b2e4-b7d9d38861b5</webElementGuid>
+      <webElementGuid>2f38fd68-0ee6-415c-b67c-7d82a593e872</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>430f3dfc-76ed-4ec5-81d2-45f99062b6d1</webElementGuid>
+      <webElementGuid>b11f0f87-efbf-4e68-bfbe-0d0c2810483c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmLogin']/div[2]/input</value>
-      <webElementGuid>35ea7625-7544-431d-bed7-8326d68a43d1</webElementGuid>
+      <webElementGuid>9fa7374d-9445-498a-b533-a43acb7cf15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng nhập email'])[1]/following::input[1]</value>
+      <webElementGuid>4ffe163e-538f-4667-aea1-f3b6c1ed8004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hoặc'])[1]/following::input[2]</value>
+      <webElementGuid>ef158bbb-7644-461e-a832-441eeb7694bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng nhập mật khẩu'])[1]/preceding::input[1]</value>
+      <webElementGuid>5ab6a0e5-2c44-48d1-90d9-b8db48394b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tự động đăng nhập'])[2]/preceding::input[2]</value>
+      <webElementGuid>2d5af0c0-7d5f-417b-9588-9d5545c6d525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/input</value>
-      <webElementGuid>aa85daff-e2c7-46e7-9d0b-c1493725a6ea</webElementGuid>
+      <webElementGuid>3bf988d6-c6d7-4fc7-818d-52033a29ec7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @id = 'password']</value>
-      <webElementGuid>3d1edb14-6aff-4211-945e-0335c6611fcc</webElementGuid>
+      <webElementGuid>7a200690-eebd-4ce3-8da9-4efb5ca86a2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
